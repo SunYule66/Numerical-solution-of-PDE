@@ -6,7 +6,9 @@
  ![image](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-21%20232724.png)
 
  code:[FD1D_Advection_Upwind](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/FD1D_Advection_Upwind_SquareWave.m)
+ 
  [FD1D_Advection_Friedrichs](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/FD1D_Advection_Friedrichs_SquareWave.m)
+ 
  [FD1D_Advection_Wendorff](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/FD1D_Advection_Wendorff_SquareWave.m)
  
  ![image](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-21%20233410.png)
