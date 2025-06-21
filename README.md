@@ -14,4 +14,3 @@
  
  ![image](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-21%20233410.png)
  
- 通过观察不同差分格式的解性质，可反映不同差分格式误差性质的不同。
