@@ -1,7 +1,2 @@
 # Numerical-solution-of-PDE
-Here is the code about Numerical solution of PDE. The main method invovles FD,FE and ML.
-
-主要内容是同济大学数学科学学院PDE数值解课程的相关代码部分。
-
-内容包括：1、1维FD方法：Upwind，Fredrichs，Wendorff格式。
-etc...
+ 通过观察不同差分格式的解性质，可反映不同差分格式误差性质的不同。
