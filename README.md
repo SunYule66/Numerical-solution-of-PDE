@@ -1,5 +1,5 @@
 # Numerical-solution-of-PDE
-## 本部分内容为1维有限元差分格式的matlab代码，以及ML方法解Burgers方程的代码。
+## 本部分内容为1维有限元差分格式的matlab代码，以及ML方法解非线性方程的代码。
 
 ### 具体问题如下：
  
