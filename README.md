@@ -5,3 +5,7 @@
 
 ### code:
 
+
+![image](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/2D-FD/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-27%20005159.png)
+
+### code:
