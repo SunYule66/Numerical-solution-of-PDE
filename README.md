@@ -15,4 +15,4 @@
  ![image](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-21%20233410.png)
  
 ### code:
-[](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/LWR-model.ipynb)
+[LWR_model](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/LWR-model.ipynb)
