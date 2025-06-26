@@ -1,18 +1,2 @@
 # Numerical-solution-of-PDE
-## 本部分内容为1维有限元差分格式解双曲型方程的matlab代码，以及ML方法解非线性方程的代码。
-
-### 具体问题如下：
- 
- ![image](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-21%20232724.png)
-
-### code in Matlab:
- [FD1D_Advection_Upwind](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/FD1D_Advection_Upwind_SquareWave.m)
- 
- [FD1D_Advection_Friedrichs](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/FD1D_Advection_Friedrichs_SquareWave.m)
- 
- [FD1D_Advection_Wendorff](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/FD1D_Advection_Wendorff_SquareWave.m)
- 
- ![image](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-21%20233410.png)
- 
-### code in Jupyter Notebook:
-[LWR_model](https://github.com/SunYule66/Numerical-solution-of-PDE/blob/1D-FD/LWR-model.ipynb)
+## 本部分内容为1维和2维有限元差分格式解椭圆型方程的matlab代码，以及IAS格式、Upwind+Shishkin解奇异摄动问题的代码。
